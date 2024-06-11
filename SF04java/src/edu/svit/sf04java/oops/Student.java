@@ -50,7 +50,7 @@
 		}
 		
 		//toString()
-		@Override
+		
 		public String toString() {
 			return "Student [id=" + id + ", name=" + name + ", department=" + department + ", location=" + location + "]";
 		}
@@ -60,4 +60,4 @@
 	}
 	
 
-}
+
